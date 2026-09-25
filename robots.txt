@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aasdstarr77.github.io/satonlinemoh/sitemap.xml
